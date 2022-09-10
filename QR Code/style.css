@@ -30,10 +30,14 @@
 .centerCard p{
     font-family: 'Outfit',monospace;
     text-align: center;
+    color:  hsl(220, 15%, 55%);
+    font-size: 15px;
 }
 span{
     display: block;
-    font-weight: bold;
+    font-weight: 600;
+    color: black;
     font-size: larger;
+    margin-bottom: 4%;
 }
 
