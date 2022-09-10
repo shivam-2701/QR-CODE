@@ -12,19 +12,28 @@
     align-items: center;
 }
 .centerCard{
-    padding: 3% 3% ;
+    padding: 1% 1% ;
     display: flex;
     border-radius: 5%;
     flex-direction: column;
     background-color:white;
-    width: 22em;
+    width: 19%;
     height: auto;
 }
 .centerCard img{
-    width:18em;
+    width:99%;
     border-radius: 5%;
-    margin-bottom: 4px;
     display: block;
     margin: auto;
+    margin-bottom: 40px;
+}
+.centerCard p{
+    font-family: 'Outfit',monospace;
+    text-align: center;
+}
+span{
+    display: block;
+    font-weight: bold;
+    font-size: larger;
 }
 
